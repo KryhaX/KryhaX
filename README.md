@@ -1,4 +1,4 @@
-### Hey Dude 👋
+### Hey 👋
 ## I'm young , ambitious Student and I'm looking for a part time job as a Web developer
 - 🔭 I’m currently working on basic programing 📕Quests📕
 - 🌱 I’m currently learning 🐍Python🐍

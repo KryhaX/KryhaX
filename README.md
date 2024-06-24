@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on 🌐Junior Django Developer🌐
 - 🤔 I’m looking for help with ❤💀Django❤💀
 - 💬 Ask me about 🕹️Python Basic🕹️ 
-- 📫 How to reach me: 📧krystiwierciak1@gmail.com📧 / 📇facebook.com/kryhax11📇
+- 📫 How to reach me: 📧wierciak.krystian@gmail.com📧 / 📇facebook.com/kryhax11📇
 - 😄 Pronouns: !<RYH@X_X 📛| kryha11 | kryhax_X | KryHaX |📛
 - ⚡ Fun fact: Love 🤖Etical Hacking🤖
 

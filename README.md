@@ -1,10 +1,16 @@
-### Hey 👋
-## I'm young , ambitious Student and I'm looking for a full time job as a Web developer 
-- 🔭 I’m currently working on basic programing 📕Quests📕
-- 🌱 I’m currently learning 🐍Python&Django Framework🐍
-- 👯 I’m looking to collaborate on 🌐Junior Django Developer🌐
-- 🤔 I’m looking for help with ❤💀Django❤💀
-- 💬 Ask me about 🕹️Python Basic🕹️ 
-- 📫 How to reach me: 📧wierciak.krystian@gmail.com📧 / 📇facebook.com/kryhax11📇
-- 😄 Pronouns: !<RYH@X_X 📛| kryha11 | kryhax_X | KryHaX |📛
+I'm a young, ambitious student eager to start my career as a Junior Django Backend Developer or Junior DevOps Engineer!
+🔭 Currently working on: Automation scripts, Django-based web applications, and Python challenges to sharpen my skills.
 
+🌱 Currently learning: 🐍 Python & Django Framework, alongside 🌐 AWS, 🐋 Docker, and ☸️ Kubernetes.
+
+🎯 Career goal: To specialize in backend development by building scalable, robust applications or advance as a DevOps engineer with expertise in cloud infrastructure and CI/CD pipelines.
+
+🤔 Looking for help with: ❤💀 Django tips and best practices ❤💀.
+
+💬 Ask me about: 🐍 Python, Django Framework, 🌐 AWS (Cloud Practitioner), 🐋 Docker, ☸️ Kubernetes (Basics), CI/CD pipelines with Jenkins, and 📈 Cloud Infrastructure automation.
+
+📫 How to reach me:
+
+📧 Email: wierciak.krystian@gmail.com
+📇 Facebook: facebook.com/kryhax11
+🔗 LinkedIn: linkedin.com/in/krystian-wierciak-905019209/

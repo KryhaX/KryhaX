@@ -1,39 +1,34 @@
 # Hey 👋  
 ## I'm Krystian Wierciak  
-### Young, ambitious student looking for a full-time job as a Junior Django Backend Developer or Junior DevOps Engineer!  
+### Young, ambitious IT enthusiast looking for a full-time role as a **Junior Django Backend Developer** or **Junior DevOps Engineer**!  
 
-- 🔭 **Currently working on**:  
-  Projects in various fields, including:  
-  - Automation scripts  
-  - Django-based web applications  
-  - Python challenges to sharpen my problem-solving skills  
+## 🔭 Currently working on:  
+- Automation scripts & cloud infrastructure  
+- Django-based web applications  
+- Improving problem-solving skills with Python challenges  
 
-- 🌱 **Currently learning**:  
-  - 🐍 Python & Django Framework  
-  - 🌐 AWS  
-  - 🐋 Docker  
-  - ☸️ Kubernetes  
+## 🌱 Currently learning:  
+- 🐍 Python & Django Framework  
+- ☁️ AWS (Certified Cloud Practitioner)  
+- 🐋 Docker & Kubernetes  
+- 🛠️ Terraform, Jenkins & Ansible  
+- 🖥️ Bash scripting & Linux (Ubuntu/CentOS)  
 
-- 🎯 **Career goal**:  
-  To specialize in backend development by building scalable, robust applications or advance as a DevOps engineer with expertise in cloud infrastructure and CI/CD pipelines.  
+## 🎯 Career goal:  
+To build scalable, robust backend applications and develop expertise in DevOps, focusing on cloud infrastructure, CI/CD pipelines, and automation.  
 
-- 🤔 **Looking for help with**:  
-  ❤💀 Django tips and best practices ❤💀  
-
-- 💬 **Ask me about**:  
-  - 🐍 Python  
-  - Django Framework  
-  - 🌐 AWS (Cloud Practitioner)  
-  - 🐋 Docker  
-  - ☸️ Kubernetes (Basics)  
-  - CI/CD pipelines with Jenkins  
-  - 📈 Cloud Infrastructure automation  
+## 💬 Ask me about:  
+- 🐍 Python & Django  
+- ☁️ AWS (Cloud Practitioner)  
+- 🐋 Docker & Kubernetes  
+- 🛠️ CI/CD with Jenkins & Terraform  
+- ⚙️ Ansible for automation  
+- 📜 Bash scripting & Linux (Ubuntu/CentOS)  
 
 ## 📫 How to reach me:  
 - 📧 **Email**: [wierciak.krystian@gmail.com](mailto:wierciak.krystian@gmail.com)  
-- 📇 **Facebook**: [facebook.com/kryhax11](https://facebook.com/kryhax11)  
 - 🔗 **LinkedIn**: [linkedin.com/in/krystian-wierciak-905019209/](https://linkedin.com/in/krystian-wierciak-905019209/)  
+- 🖥️ **GitHub**: [github.com/KryhaX](http://github.com/KryhaX/)  
 
----
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or have opportunities that align with my skills and interests. 🚀  
+---  
+🚀 Always open to learning, collaboration, and new challenges. Let’s connect!
